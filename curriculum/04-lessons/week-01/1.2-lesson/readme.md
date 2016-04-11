@@ -203,6 +203,12 @@ We now need to connect our local Git repo with our remote repository on GitHub. 
 git remote add origin git@github.com:github-name/hello-world.git
 ```
 
+Alternatively, you can clone this repo from your Github link to have this automatically configured in a new.
+
+```
+git clone https://github.com/github-username/hello-world.git
+```
+
 #### Pushing to Github
 
 In order to send files from our local machine to our remote repository on Github, we need to use the command `git push`. However, you also need to add the name of the remote, in this case we called it `origin` and the name of the branch, in this case `master`.
