@@ -203,7 +203,7 @@ We now need to connect our local Git repo with our remote repository on GitHub. 
 git remote add origin git@github.com:github-name/hello-world.git
 ```
 
-Alternatively, you can clone this repo from your Github link to have this automatically configured in a new.
+Alternatively, you can clone this repo from your Github link to have this automatically configured in a new directory.
 
 ```
 git clone https://github.com/github-username/hello-world.git
