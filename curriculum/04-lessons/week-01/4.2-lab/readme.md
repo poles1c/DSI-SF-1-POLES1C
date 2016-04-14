@@ -26,6 +26,12 @@ transpose will help you put your data set in a format that is most condusive to 
 accomplish. 
 
 
+### Reshaping Arrays
+[Numpy Reshape](http://docs.scipy.org/doc/numpy-1.10.1/reference/generated/numpy.reshape.html)
+
+### Transposing Arrays
+[Numpy Transpose](http://docs.scipy.org/doc/numpy-1.10.1/reference/generated/numpy.transpose.html)
+
 #### Requirements
 
 - Create an array
