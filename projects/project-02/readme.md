@@ -36,6 +36,8 @@ Your work must:
 - Evaluate your hypothesis using statistical analysis
 - Present results in a polished blog post format
 
+  _Feel free to use any blog publishing provider.  We recommend using something easy like [Medium](https://medium.com/), [Wordpress](https://wordpress.com/), [Github Pages (with Jekyl)](https://pages.github.com/), [Squarespace](https://www.squarespace.com/), or any other platform you might already be familiar with.  We're not expecting anything visually dazzling, just published content._
+
 **Bonus:**
 
 - Write a short white paper on the philosophy of 'Clean Data'
